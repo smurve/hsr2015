@@ -1,9 +1,0 @@
-org/smurve/hsr2015/books/BookTestRepo.class
-org/smurve/hsr2015/ApplicationMain.class
-org/smurve/hsr2015/books/domain/Author.class
-org/smurve/hsr2015/books/BookRepo.class
-org/smurve/hsr2015/aspects/LoggingAspect.class
-org/smurve/hsr2015/books/domain/Book.class
-org/smurve/hsr2015/books/domain/Category.class
-org/smurve/hsr2015/books/BookController.class
-org/smurve/hsr2015/configuration/LoggingAspectConfiguration.class

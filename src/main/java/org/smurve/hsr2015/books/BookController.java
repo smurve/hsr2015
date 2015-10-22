@@ -27,10 +27,14 @@ public class BookController {
     @Value( "${application.title}")
     private String appName;
 
+    /**
+     * This is just for demo. You won't see this anywhere in real code.
+     */
     @PostConstruct
     private void createInitialData() {
         LOGGER.info( appName + ": Creating initial data");
         Author wolfie = new Author("Wolfgang", "Giersche", Category.SCIENCE);
+        repo.deleteAll();
         repo.save(new Book("Wolfie's Lectures", wolfie, Category.SCIENCE));
     }
 
