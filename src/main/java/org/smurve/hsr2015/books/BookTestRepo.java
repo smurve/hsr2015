@@ -23,7 +23,7 @@ public class BookTestRepo {
     @PostConstruct
     private void createInitialData() {
         Author wolfie = new Author("Wolfgang", "Giersche", Category.SCIENCE);
-        database.add(new Book("Wolfie's Lectures", wolfie, Category.SCIENCE));
+        database.add(new Book("Wolfie's Lectures", wolfie, Category.SCIENCE, 139.50));
     }
 
     /**

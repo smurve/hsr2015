@@ -5,6 +5,7 @@ import org.slf4j.LoggerFactory;
 import org.smurve.hsr2015.books.domain.Author;
 import org.smurve.hsr2015.books.domain.Book;
 import org.smurve.hsr2015.books.domain.Category;
+import org.smurve.hsr2015.financials.AccountRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
@@ -24,6 +25,9 @@ public class BookController {
     @Autowired
     private BookRepo repo;
 
+    @Autowired
+    private AccountRepo accountRepo;
+
     @Value( "${application.title}")
     private String appName;
 
@@ -33,9 +37,14 @@ public class BookController {
     @PostConstruct
     private void createInitialData() {
         LOGGER.info( appName + ": Creating initial data");
+        cleanDb();
         Author wolfie = new Author("Wolfgang", "Giersche", Category.SCIENCE);
+        repo.save(new Book("Wolfie's Lectures", wolfie, Category.SCIENCE, 219.90));
+    }
+
+    private void cleanDb() {
+        accountRepo.deleteAll();
         repo.deleteAll();
-        repo.save(new Book("Wolfie's Lectures", wolfie, Category.SCIENCE));
     }
 
     @RequestMapping("/books")

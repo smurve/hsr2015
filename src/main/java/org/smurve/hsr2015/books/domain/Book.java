@@ -13,15 +13,18 @@ public class Book {
     @ManyToOne(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
     private Author author;
 
+    private double price;
+
     @Enumerated(EnumType.STRING)
     private Category category;
 
     public Book () {}
 
-    public Book(String title, Author author, Category category) {
+    public Book(String title, Author author, Category category, double price) {
         this.title = title;
         this.author = author;
         this.category = category;
+        this.price = price;
     }
 
     public String getTitle() {
@@ -39,4 +42,6 @@ public class Book {
     public Long getId() {
         return id;
     }
+
+    public double getPrice() { return price; }
 }
