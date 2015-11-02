@@ -9,7 +9,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @EnableAutoConfiguration
 @ComponentScan(basePackageClasses = ApplicationMain.class)
-@EnableJpaRepositories(basePackageClasses = {BookRepo.class, AccountRepo.class})
+@EnableJpaRepositories(basePackageClasses = {BookRepo.class})
 public class ApplicationMain {
 
     public static void main(String[] args) {

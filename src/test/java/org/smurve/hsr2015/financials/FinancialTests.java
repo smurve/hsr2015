@@ -14,19 +14,14 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-@RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(classes=ApplicationMain.class)
 public class FinancialTests {
 
     public static final String BERNIES_ACCOUNT="01040567";
 
-    @Autowired
     private AccountService service;
 
-    @Autowired
     private BookRepo bookRepo;
 
-    @Autowired
     private AccountRepo accountRepo;
 
     private Book karl;

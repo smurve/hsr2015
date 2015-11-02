@@ -8,19 +8,16 @@ import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;
 
-@Service
 public class AccountService {
 
     public static final String ACC_NO_RECEIVABLES = "0900101054";
 
     private final AccountRepo accountRepo;
 
-    @Autowired
     public AccountService ( AccountRepo accountRepo ) {
         this.accountRepo = accountRepo;
     }
 
-    @Transactional
     public void recordSales(Book book) {
 
         // Author's account
