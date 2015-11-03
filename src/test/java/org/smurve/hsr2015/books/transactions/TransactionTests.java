@@ -6,6 +6,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.smurve.hsr2015.ApplicationMain;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.ConfigFileApplicationContextInitializer;
 import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
@@ -21,7 +22,7 @@ import java.util.List;
  *  that means the inner methods execute in their own isolated Tx
  */
 @RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(classes = ApplicationMain.class)
+@SpringApplicationConfiguration(classes = ApplicationMain.class, initializers = ConfigFileApplicationContextInitializer.class)
 public class TransactionTests {
 
     @Autowired
