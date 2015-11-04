@@ -8,6 +8,7 @@ import org.smurve.hsr2015.books.domain.Category;
 import org.smurve.hsr2015.financials.AccountRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -18,6 +19,7 @@ import javax.persistence.PersistenceContext;
 import java.util.List;
 
 @Controller
+@Scope("singleton") //  just to demonstrate the default, so you could remove this.
 public class BookController {
 
     public static final Logger LOGGER = LoggerFactory.getLogger(BookController.class);

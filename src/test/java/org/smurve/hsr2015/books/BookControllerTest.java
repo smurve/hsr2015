@@ -5,10 +5,12 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.smurve.hsr2015.ApplicationMain;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.test.IntegrationTest;
 import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.PropertySource;
+import org.springframework.context.annotation.Scope;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.test.context.web.WebAppConfiguration;
@@ -19,6 +21,7 @@ import org.springframework.transaction.annotation.Transactional;
 public class BookControllerTest {
 
     @Autowired
+    @Qualifier ("bookController") // provide a particular bean name (not necessary here).
     private BookController bookController;
 
     @Autowired
