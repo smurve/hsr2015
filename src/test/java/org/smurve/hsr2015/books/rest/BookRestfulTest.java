@@ -5,6 +5,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.smurve.hsr2015.ApplicationMain;
 import org.smurve.hsr2015.books.domain.Book;
+import org.springframework.boot.test.ConfigFileApplicationContextInitializer;
 import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.boot.test.TestRestTemplate;
 import org.springframework.boot.test.WebIntegrationTest;
@@ -14,7 +15,8 @@ import org.springframework.web.client.RestTemplate;
 
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(classes = ApplicationMain.class)
+@SpringApplicationConfiguration(classes = ApplicationMain.class,
+        initializers = ConfigFileApplicationContextInitializer.class)
 @WebIntegrationTest
 public class BookRestfulTest {
 
