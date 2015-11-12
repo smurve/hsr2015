@@ -1,0 +1,364 @@
+21:12:22 INFO  o.s.h.c.SpringJpaConfiguration - JPA config set up with dbConnector of type org.smurve.hsr2014.utils.db.hsql.HSqlConnector
+21:12:25 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: PAoDpy1CqASYNazOaunCaQ
+21:12:25 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@4ac8768e, createOrUpdate
+21:12:25 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:12:25 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@7f6329cb, read
+21:12:25 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:12:25 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@c1050f2, read
+21:12:25 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:12:26 DEBUG o.s.h.security.AuditLoggerAspect - User: anonymous - Action: create - On: Contract - with ID: jAMCo0dn4vO1QpycOhPArw
+21:12:26 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: +4WHvXLPsb6kt8H1Ow8DxA
+21:12:26 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@2921a36a, createOrUpdate
+21:12:26 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:12:26 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@1f992a3a, read
+21:12:26 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:12:26 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: GRtzclkughcIR5GtUt3CmQ
+21:12:26 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@e9474f, createOrUpdate
+21:12:26 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:12:26 DEBUG o.s.h.security.AuditLoggerAspect - User: harry - Action: create - On: Contract - with ID: AEF2E0fR4CR_3nIlcxxd0g
+21:12:26 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@2047981, createOrUpdate
+21:12:26 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:12:26 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@40ed1802, read
+21:12:26 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:12:26 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@23c767e6, read
+21:12:26 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:12:27 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@519c6fcc, read
+21:12:27 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:12:27 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@6ad1701a, read
+21:12:27 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:12:27 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: ZXInpDcE5njFfa6vIlYfTQ
+21:12:27 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@796d33eb, createOrUpdate
+21:12:27 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:12:27 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: W9jEF5q9XCDDx1c6pKXa+g
+21:12:27 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@674da77b, createOrUpdate
+21:12:27 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:13:42 INFO  o.s.h.c.SpringJpaConfiguration - JPA config set up with dbConnector of type org.smurve.hsr2014.utils.db.hsql.HSqlConnector
+21:13:45 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: kAfbAoFt7YZQ+uYEUEhW5A
+21:13:45 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@1903b5d, createOrUpdate
+21:13:45 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:13:45 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@6a15b73, read
+21:13:45 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:13:45 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@61bb1e4d, read
+21:13:45 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:13:45 DEBUG o.s.h.security.AuditLoggerAspect - User: anonymous - Action: create - On: Contract - with ID: e2gDVi67stQ9XxHc+ET_Cw
+21:13:45 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: obh23PMRJre4STudP7faWQ
+21:13:45 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@5190010f, createOrUpdate
+21:13:45 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:13:45 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@390037e7, read
+21:13:45 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:13:46 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: W2WUC2gss2AxyBU1tSxvfQ
+21:13:46 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@131a7516, createOrUpdate
+21:13:46 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:13:46 DEBUG o.s.h.security.AuditLoggerAspect - User: harry - Action: create - On: Contract - with ID: yuUXZyEaTo7m583yeBSflw
+21:13:46 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@5a08b084, createOrUpdate
+21:13:46 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:13:46 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@7e7743ec, read
+21:13:46 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:13:46 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@776015fc, read
+21:13:46 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:13:46 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@77b3752b, read
+21:13:46 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:13:46 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@6367a688, read
+21:13:46 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:13:46 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: mFI9Imux9+LBwFaeXJlBLA
+21:13:46 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@31723307, createOrUpdate
+21:13:46 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:13:47 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: yAOuWYYGAfIXMQgc6hEkhw
+21:13:47 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@2ba42204, createOrUpdate
+21:13:47 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:21:47 INFO  o.s.h.c.SpringJpaConfiguration - JPA config set up with dbConnector of type org.smurve.hsr2014.utils.db.hsql.HSqlConnector
+21:21:50 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: UCH3rvU92dtLLxeiI4HvzA
+21:21:50 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@1039bfc4, createOrUpdate
+21:21:50 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:21:50 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@684e8c9d, read
+21:21:50 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:21:50 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@996a546, read
+21:21:50 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:21:50 DEBUG o.s.h.security.AuditLoggerAspect - User: anonymous - Action: create - On: Contract - with ID: h3U8PBXFGJkG58xUdPyqvQ
+21:21:51 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: YADy9quRp42QL6wz4t9yQA
+21:21:51 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@30bf26df, createOrUpdate
+21:21:51 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:21:51 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@75fe1619, read
+21:21:51 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:21:51 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: zSkIRIqPO9BlbRk_los1sg
+21:21:51 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@3c770db4, createOrUpdate
+21:21:51 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:21:51 DEBUG o.s.h.security.AuditLoggerAspect - User: harry - Action: create - On: Contract - with ID: x4AFDj0XmfUl03UXCPHUFw
+21:21:51 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@19e21f89, createOrUpdate
+21:21:51 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:21:51 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@6b2dd3df, read
+21:21:51 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:21:51 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@4db77402, read
+21:21:51 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:21:51 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@5ba90d8a, read
+21:21:51 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:21:51 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@309dcdf3, read
+21:21:51 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:21:52 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: 5VbDvCHJKmWUwy4Jkd4CJg
+21:21:52 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@69a024a0, createOrUpdate
+21:21:52 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:21:52 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: BxJQgKb1wyky+pjLIRJOsw
+21:21:52 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@56826a75, createOrUpdate
+21:21:52 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:24:13 INFO  o.s.h.c.SpringJpaConfiguration - JPA config set up with dbConnector of type org.smurve.hsr2014.utils.db.hsql.HSqlConnector
+21:24:16 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: rOO4ryLWU2pJCtP2ptJiBA
+21:24:16 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@1e957e2f, createOrUpdate
+21:24:16 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:24:16 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@4b8137c5, read
+21:24:16 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:24:16 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@67bb4dcd, read
+21:24:16 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:24:16 DEBUG o.s.h.security.AuditLoggerAspect - User: anonymous - Action: create - On: Contract - with ID: k2RYC8eqTrqHod0FudZUWg
+21:24:16 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: NnpkZqHyV0vBseTtZbAijw
+21:24:16 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@2b73bd6b, createOrUpdate
+21:24:16 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:24:16 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@30bf26df, read
+21:24:16 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:24:17 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: xy9vwDEDnZgR7wPVWN+Ddg
+21:24:17 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@1c61eda5, createOrUpdate
+21:24:17 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:24:17 DEBUG o.s.h.security.AuditLoggerAspect - User: harry - Action: create - On: Contract - with ID: YPc+DxmQvJj4ovYJjmnkrg
+21:24:17 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@2ad99cf3, createOrUpdate
+21:24:17 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:24:17 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@23c767e6, read
+21:24:17 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:24:17 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@feb098f, read
+21:24:17 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:24:17 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@6ad1701a, read
+21:24:17 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:24:17 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@7ecda95b, read
+21:24:17 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:24:17 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: mTVb80+Kau0xRU0wI+x1Bw
+21:24:17 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@5c059a68, createOrUpdate
+21:24:17 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:24:18 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: 5xtPaNyLAnWphcr8JmzgDA
+21:24:18 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@bd3eff4, createOrUpdate
+21:24:18 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:27:28 INFO  o.s.h.c.SpringJpaConfiguration - JPA config set up with dbConnector of type org.smurve.hsr2014.utils.db.hsql.HSqlConnector
+21:27:31 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: d119BlbS1NAYUtcvYZL8eA
+21:27:31 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@9687f55, createOrUpdate
+21:27:31 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:27:31 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@5c53f292, read
+21:27:31 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:27:31 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@331ff3ac, read
+21:27:31 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:27:31 DEBUG o.s.h.security.AuditLoggerAspect - User: anonymous - Action: create - On: Contract - with ID: vDcf3ZKv_SM73hfgQf4jfA
+21:27:31 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: 38RThNBeXXRgh_V9+SzN_g
+21:27:31 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@3b24087d, createOrUpdate
+21:27:31 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:27:31 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@422ab737, read
+21:27:31 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:27:32 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: Ug3Cza37i3CINZup7ciZYg
+21:27:32 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@2c719bd4, createOrUpdate
+21:27:32 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:27:32 DEBUG o.s.h.security.AuditLoggerAspect - User: harry - Action: create - On: Contract - with ID: MBS+JCZKuD52IJ9AEhvTMQ
+21:27:32 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@315c081, createOrUpdate
+21:27:32 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:27:32 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@4a070cf0, read
+21:27:32 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:27:32 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@764b14b8, read
+21:27:32 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:27:32 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@35dece42, read
+21:27:32 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:27:32 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@dd3f8aa, read
+21:27:32 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:27:32 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: QdSDF1PrBXlat94ZuJR3jg
+21:27:32 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@3bb9ca38, createOrUpdate
+21:27:32 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:27:33 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: aB3rnirR2OXx1v1OymtKiQ
+21:27:33 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@7455dacb, createOrUpdate
+21:27:33 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:28:02 INFO  o.s.h.c.SpringJpaConfiguration - JPA config set up with dbConnector of type org.smurve.hsr2014.utils.db.hsql.HSqlConnector
+21:28:05 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: DMZ9yvaCXqU3MQcCFr65UQ
+21:28:05 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@4ac8768e, createOrUpdate
+21:28:05 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:28:05 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@7f6329cb, read
+21:28:05 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:28:05 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@c1050f2, read
+21:28:05 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:28:06 DEBUG o.s.h.security.AuditLoggerAspect - User: anonymous - Action: create - On: Contract - with ID: UswwLStwEvIPhJXf56Zq7w
+21:28:06 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: IsVgTHlq3aPUPvGb8bDNtA
+21:28:06 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@2921a36a, createOrUpdate
+21:28:06 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:28:06 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@1f992a3a, read
+21:28:06 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:28:06 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: _tsKe9ULifL5gy1Uxh5TSA
+21:28:06 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@e9474f, createOrUpdate
+21:28:06 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:28:06 DEBUG o.s.h.security.AuditLoggerAspect - User: harry - Action: create - On: Contract - with ID: od+2GmL7po4tVGPtDOXc+A
+21:28:06 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@2047981, createOrUpdate
+21:28:06 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:28:06 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@40ed1802, read
+21:28:06 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:28:06 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@23c767e6, read
+21:28:06 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:28:07 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@22da2fe6, read
+21:28:07 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:28:07 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@100ad67e, read
+21:28:07 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:28:07 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: G5EdVYgpI1VpgjdHdiU4dw
+21:28:07 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@2a8b33ba, createOrUpdate
+21:28:07 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:28:07 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: utVoao+tA6__HtxZ+Y12KA
+21:28:07 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@2180e789, createOrUpdate
+21:28:07 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:39:17 INFO  o.s.h.c.SpringJpaConfiguration - JPA config set up with dbConnector of type org.smurve.hsr2014.utils.db.hsql.HSqlConnector
+21:39:20 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: SeAmcf7dzsHtlP7fnIM26w
+21:39:20 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@5cff6b74, createOrUpdate
+21:39:20 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:39:20 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@25ffd826, read
+21:39:20 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:39:20 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@3b009e7b, read
+21:39:20 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:40:32 INFO  o.s.h.c.SpringJpaConfiguration - JPA config set up with dbConnector of type org.smurve.hsr2014.utils.db.hsql.HSqlConnector
+21:40:35 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: iPM5dZMrEwfm3cgu_4Mscg
+21:40:35 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@66fbc5e7, createOrUpdate
+21:40:35 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:40:35 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@4a1a256d, read
+21:40:35 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:40:35 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@5974b233, read
+21:40:35 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:40:36 DEBUG o.s.h.security.AuditLoggerAspect - User: anonymous - Action: create - On: Contract - with ID: PpsBStghqsQK1KwhuftgRg
+21:40:36 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: DpMquOfrz7_pUXuZL19nbQ
+21:40:36 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@390037e7, createOrUpdate
+21:40:36 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:40:36 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@469a7575, read
+21:40:36 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:40:36 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: TMztAkfhOnKsRYQ2L_1a2Q
+21:40:36 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@46fc522d, createOrUpdate
+21:40:36 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:40:36 DEBUG o.s.h.security.AuditLoggerAspect - User: harry - Action: create - On: Contract - with ID: bEJ45UiOB3vVnCp16XHgrQ
+21:40:36 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@7e7743ec, createOrUpdate
+21:40:36 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:40:36 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@5ef85555, read
+21:40:36 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:40:36 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@5bcec67e, read
+21:40:36 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:40:36 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@2c0c4c0a, read
+21:40:36 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:40:36 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@35d26ad2, read
+21:40:36 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:40:37 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: _2Ua+0EJZW44BXqOEmJI0g
+21:40:37 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@3e900e1a, createOrUpdate
+21:40:37 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:40:37 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: URl0yPuyc3ONGYNtSsAbIw
+21:40:37 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@31acfd4e, createOrUpdate
+21:40:37 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:41:13 INFO  o.s.h.c.SpringJpaConfiguration - JPA config set up with dbConnector of type org.smurve.hsr2014.utils.db.hsql.HSqlConnector
+21:41:16 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: 7sH1OIdZKA_UHR3J124e4Q
+21:41:16 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@29a33620, createOrUpdate
+21:41:16 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:41:16 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@41b64020, read
+21:41:16 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:41:16 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@5ff00507, read
+21:41:16 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:41:16 DEBUG o.s.h.security.AuditLoggerAspect - User: anonymous - Action: create - On: Contract - with ID: md9UDDsVXtbdWEpZz+W5lA
+21:41:16 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: gjCB+ODAcxfZY0q47uX+tw
+21:41:16 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@28279a49, createOrUpdate
+21:41:16 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:41:16 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@78a8978a, read
+21:41:16 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:41:17 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: CWjarFjA8AzhOwg+Xj8Cbg
+21:41:17 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@1376883, createOrUpdate
+21:41:17 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:41:17 DEBUG o.s.h.security.AuditLoggerAspect - User: harry - Action: create - On: Contract - with ID: qgf0oGkhoT8yURnNEumQQw
+21:41:17 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@1b3ab4f9, createOrUpdate
+21:41:17 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:41:17 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@2efd2f21, read
+21:41:17 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:41:17 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@59c500f7, read
+21:41:17 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:41:17 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@35bfa1bb, read
+21:41:17 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:41:17 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@6b321262, read
+21:41:17 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:41:17 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: 9Ucc6qAe5Cl7rEXMEuQjlQ
+21:41:17 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@a85644c, createOrUpdate
+21:41:17 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:41:18 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: 54R7QD0Pp6ebq5OerGyuNw
+21:41:18 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@29d405e6, createOrUpdate
+21:41:18 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:43:03 INFO  o.s.h.c.SpringJpaConfiguration - JPA config set up with dbConnector of type org.smurve.hsr2014.utils.db.hsql.HSqlConnector
+21:43:06 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@e700eba, read
+21:43:06 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:43:06 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@6436e181, read
+21:43:06 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:43:07 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: ILcr0piK7DcyKskVgtf1qA
+21:43:07 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@4342c13, createOrUpdate
+21:43:07 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:43:07 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@30bf26df, read
+21:43:07 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:43:07 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@4351ed61, read
+21:43:07 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:43:07 DEBUG o.s.h.security.AuditLoggerAspect - User: anonymous - Action: create - On: Contract - with ID: ck0cRg5daRz1W1x+zPS9mg
+21:43:07 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: BK0AXDMyzzTzhgypJKCfjA
+21:43:07 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@73c48264, createOrUpdate
+21:43:07 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:43:07 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@1f782c05, read
+21:43:07 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:43:08 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: peYJBVPO4JkiXwEjKj86nQ
+21:43:08 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@459003a0, createOrUpdate
+21:43:08 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:43:08 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: hTXmoqHJIFKLOrvytdZcrw
+21:43:08 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@4ea56bdb, createOrUpdate
+21:43:08 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:43:08 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: ZvOKae2sLg6SHlM30nBwhA
+21:43:08 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@3c25cfe1, createOrUpdate
+21:43:08 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:43:08 DEBUG o.s.h.security.AuditLoggerAspect - User: harry - Action: create - On: Contract - with ID: jyJEH1c0vFYNo6VdI25y+Q
+21:43:08 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@4b033eac, createOrUpdate
+21:43:08 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:43:08 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@353f472a, read
+21:43:08 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:43:08 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@63bfdbcb, read
+21:43:08 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:43:08 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@58dad04a, read
+21:43:08 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:43:08 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@73e776b7, read
+21:43:08 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:56:01 INFO  o.s.h.c.SpringJpaConfiguration - JPA config set up with dbConnector of type org.smurve.hsr2014.utils.db.hsql.HSqlConnector
+21:56:04 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@65514add, read
+21:56:04 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:56:04 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@79e7188e, read
+21:56:04 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:56:04 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@11dcd42c, read
+21:56:04 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:56:04 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@3f1a9a53, read
+21:56:04 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:56:04 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@1ca3d25b, read
+21:56:04 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:56:04 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@4538856f, read
+21:56:04 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:56:04 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: rpRnFYg3JUtiQ0obmIM2jg
+21:56:04 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@483f286e, createOrUpdate
+21:56:04 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:56:04 DEBUG o.s.h.security.AuditLoggerAspect - User: harry - Action: create - On: Contract - with ID: dCOsQOrw+H2qchHv71OI5A
+21:56:04 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@5ae15, createOrUpdate
+21:56:04 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:56:04 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@77cb452c, read
+21:56:04 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:56:04 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for harry, org.smurve.hsr2014.domain.Contract@2213639b, read
+21:56:04 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:56:04 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@40ed1802, read
+21:56:04 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:56:04 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@23c767e6, read
+21:56:04 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:56:05 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: 2oQn6HzLASj2yMMd4Yt+zw
+21:56:05 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@25b38203, createOrUpdate
+21:56:05 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:56:05 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@359066bc, read
+21:56:05 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:56:05 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@1b57c345, read
+21:56:05 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:56:05 DEBUG o.s.h.security.AuditLoggerAspect - User: anonymous - Action: create - On: Contract - with ID: 0b6M6iNaCiUZcJKhaBdwWA
+21:56:05 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: OX35CZGRHgAtf5Cc1erheA
+21:56:05 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@1a2e0d57, createOrUpdate
+21:56:05 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:56:05 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@a0bf272, read
+21:56:05 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method read
+21:56:06 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: IjMW0RYveJghbTEZsCTsig
+21:56:06 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@3434a4f0, createOrUpdate
+21:56:06 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
+21:56:06 DEBUG o.s.h.security.AuditLoggerAspect - User: wolfie - Action: create - On: Contract - with ID: 8FbdiQLBDKkW8O06rIFP5w
+21:56:06 DEBUG o.s.h.s.RestrictionBasedMethodPermissionEvaluator - evaluating permissions for wolfie, org.smurve.hsr2014.domain.Contract@738a5848, createOrUpdate
+21:56:06 INFO  o.s.h.s.ResourceAccessControlService - Getting Roles for org.smurve.hsr2014.domain.Contract and method createOrUpdate
