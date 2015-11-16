@@ -38,10 +38,10 @@
 
         <target>
             <!-- The destination package of your generated classes (within the destination directory) -->
-            <packageName>test.generated</packageName>
+            <packageName>org.smurve.hsr2014.jooq</packageName>
 
             <!-- The destination directory of your generated classes -->
-            <directory>/Users/wgiersche/workspace/hsr2015/AdvancedPersistency/src/generated/java</directory>
+            <directory>src/main/java</directory>
         </target>
     </generator>
 </configuration>
