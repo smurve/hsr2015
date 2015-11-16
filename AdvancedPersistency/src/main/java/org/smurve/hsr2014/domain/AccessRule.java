@@ -5,6 +5,7 @@ import javax.persistence.*;
 
 @Entity
 @Table(name = "ACCESS_RULES")
+@SuppressWarnings("unused")
 public class AccessRule extends SecureResource {
 
     @ManyToOne
@@ -23,7 +24,6 @@ public class AccessRule extends SecureResource {
         this.role = role;
     }
 
-    @SuppressWarnings("unused")
 	private AccessRule() {
     } // for JPA
 

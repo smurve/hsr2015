@@ -21,7 +21,7 @@ public class YourUnitTest {
     @Test
     public void testAll () {
 
-        Product toy = new Product("T001", "Barbie", ProductType.HOUSE_HOLD);
+        Product toy = new Product("T001", "Barbie", ProductType.HOUSEHOLD);
 
         productRepo.save(toy);
 

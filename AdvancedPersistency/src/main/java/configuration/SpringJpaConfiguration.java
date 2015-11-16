@@ -61,7 +61,7 @@ public class SpringJpaConfiguration {
         properties.setProperty("hibernate.connection.charSet", "UTF-8");
         properties.setProperty("hibernate.ejb.naming_strategy", EJB3NamingStrategy.class.getName());
         properties.setProperty("hibernate.hbm2ddl.auto", "create");
-        properties.setProperty("hibernate.show_sql", "false");
+        properties.setProperty("hibernate.show_sql", "true");
         properties.setProperty("hibernate.format_sql", "true");
         // properties.setProperty("hibernate.hbm2ddl.auto", "validate");
         properties.setProperty("hibernate.ejb.interceptor", DateManipulationInterceptor.class.getName());
