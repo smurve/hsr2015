@@ -19,7 +19,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
         "org.smurve.hsr2014.repo",
         "org.smurve.hsr2014.service"})
 @EnableCaching
-public class DatabaseTestContext {
+public class DatabaseTestContextWithCaching {
 
     @Bean
     public DatabaseConnector databaseConnector() {

@@ -24,8 +24,8 @@ public class ResourceAccessRuleRepositoryImpl implements CustomResourceAccessRul
 
     @Override
     public List<ResourceAccessRule> findMatchingRules(Class<? extends BaseEntity> resourceType, EntityOperation operation) {
-        TypedQuery<ResourceAccessRule> query = entityManager.createQuery("select ac from ResourceAccessRule"
-                + " ac where ac.operation = ?1 AND ac.resourceType = ?2 ", ResourceAccessRule.class);
+        TypedQuery<ResourceAccessRule> query = entityManager.createQuery("select ac from ResourceAccessRule ac "
+                + " where ac.operation = ?1 AND ac.resourceType = ?2 ", ResourceAccessRule.class);
         query.setParameter(1, operation);
         query.setParameter(2, resourceType);
 

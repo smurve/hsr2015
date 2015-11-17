@@ -1,6 +1,7 @@
 package org.smurve.hsr2014.inheritance;
 
 import junit.framework.Assert;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.smurve.hsr2014.domain2.*;
@@ -33,6 +34,7 @@ public class InheritanceTests2 {
     @Autowired
     private AccessRuleRepository accessRuleRepository;
 
+    @Ignore
     @Test
     public void testAll() {
 

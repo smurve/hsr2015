@@ -17,7 +17,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import java.util.List;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration(classes = DatabaseTestContext.class)
+@ContextConfiguration(classes = DatabaseTestContextWithCaching.class)
 public class InheritanceTests {
 
 
